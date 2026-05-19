@@ -6,7 +6,7 @@ AlCu is a terminal game based on heaps of items (rendered as `|`). You play agai
 
 ## Screenshot
 
-![AlCu gameplay](assets/game.png)
+![AlCu gameplay](assets/game1.png)
 
 Example gameplay in the terminal.
 
