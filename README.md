@@ -18,7 +18,7 @@ The AI uses a simple modulo strategy for each heap, so expect it to play optimal
 make
 ```
 
-This produces a binary named `almu1`.
+This produces a binary named `almu1` (as defined in the Makefile).
 
 ## Run
 
