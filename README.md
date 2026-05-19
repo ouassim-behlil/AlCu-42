@@ -1,5 +1,4 @@
 # AlCu-42
-AlCu is a game based on heaps. This rush will make you work on efficient progamming methods and algorithms 
 
 AlCu is a terminal game based on heaps of items (rendered as `|`). You play against an AI and alternate removing items from the current heap. The goal is to avoid taking the very last item of the game.
 
