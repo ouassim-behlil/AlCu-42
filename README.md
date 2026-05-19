@@ -18,7 +18,7 @@ The AI uses a simple modulo strategy for each heap, so expect it to play optimal
 make
 ```
 
-This produces a binary named `almu1` (as defined in the Makefile).
+This produces a binary named `almu1` (legacy name defined in the Makefile). If you want a different name, update the `NAME` variable in the Makefile.
 
 ## Run
 
